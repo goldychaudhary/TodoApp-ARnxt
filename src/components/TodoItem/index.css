@@ -1,0 +1,25 @@
+
+
+.list-item-container{
+  
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 10px 0px 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+
+}
+
+.dlt-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    border-style: none;
+}
+
+.todo-btn-container{
+    display: flex;
+}
